@@ -3378,7 +3378,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Learn about Managing Servers"
+            "text": "サーバーの管理について学ぶ"
           },
           "typeID": "Label",
           "x": "549",
@@ -3391,7 +3391,7 @@
           "measuredW": "351",
           "properties": {
             "size": "15",
-            "text": "Get some administration knowledge in some OS. Go"
+            "text": "いくつかのOSで管理の知識を習得します。"
           },
           "typeID": "Label",
           "x": "498",
@@ -3404,7 +3404,7 @@
           "measuredW": "368",
           "properties": {
             "size": "15",
-            "text": "with any Linux distro. Pick Ubuntu if you have a little to"
+            "text": "どのLinuxディストリビューションでも構いません。"
           },
           "typeID": "Label",
           "w": "352",
@@ -3415,14 +3415,14 @@
         {
           "ID": "2174",
           "measuredH": "23",
-          "measuredW": "172",
+          "measuredW": "368",
           "properties": {
             "size": "15",
-            "text": "no experience with Linux."
+            "text": "Linuxの経験が殆どない場合はUbuntuを選んでください。"
           },
           "typeID": "Label",
-          "w": "183",
-          "x": "582",
+          "w": "352",
+          "x": "498",
           "y": "777",
           "zOrder": "127"
         },
@@ -3534,7 +3534,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Networking, Security and Protocols"
+            "text": "ネットワーク、セキュリティ、プロトコル"
           },
           "typeID": "Label",
           "x": "133",
@@ -3562,7 +3562,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "What is and how to setup a ____________"
+            "text": "________とは何か、どのように設定するのか？"
           },
           "typeID": "Label",
           "w": "337",
@@ -3909,10 +3909,10 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Learn Infrastructure as Code"
+            "text": "IaC(Infrastructure as Code)を学ぶ"
           },
           "typeID": "Label",
-          "x": "728",
+          "x": "718",
           "y": "1443",
           "zOrder": "161"
         },
@@ -3965,7 +3965,7 @@
           "properties": {
             "bold": "true",
             "size": "15",
-            "text": "Learn to live in Terminal"
+            "text": "ターミナルでの生活を学ぶ"
           },
           "typeID": "Label",
           "x": "1026",
@@ -4221,7 +4221,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Learn some CI/CD Tool"
+            "text": "CI/CDツールを学ぶ"
           },
           "typeID": "Label",
           "x": "126",
@@ -4480,7 +4480,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Learn how to monitor software and infrastructure"
+            "text": "ソフトウェアとインフラの監視方法を学ぶ"
           },
           "typeID": "Label",
           "x": "347",
@@ -4906,7 +4906,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Cloud Providers"
+            "text": "クラウドプロバイダー"
           },
           "typeID": "Label",
           "x": "333",
@@ -5531,7 +5531,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Learn a Programming Language"
+            "text": "プログラミング言語を学ぶ"
           },
           "typeID": "Label",
           "x": "525",
@@ -5787,7 +5787,7 @@
           "measuredW": "290",
           "properties": {
             "size": "17",
-            "text": "It doesn't matter which language you "
+            "text": "どの言語を選択しても構いません。"
           },
           "typeID": "Label",
           "x": "497",
@@ -5800,7 +5800,7 @@
           "measuredW": "289",
           "properties": {
             "size": "17",
-            "text": "pick, key is to get some programming"
+            "text": "重要なのは、自動化のためのプログラミング"
           },
           "typeID": "Label",
           "x": "497",
@@ -5813,7 +5813,7 @@
           "measuredW": "199",
           "properties": {
             "size": "17",
-            "text": "knowledge for automation"
+            "text": "知識を習得することです。"
           },
           "typeID": "Label",
           "x": "497",
@@ -6026,7 +6026,7 @@
           "measuredW": "263",
           "properties": {
             "size": "16",
-            "text": "Personal Recommendation / Opinion"
+            "text": "個人的な推薦／意見"
           },
           "typeID": "Label",
           "x": "138",
@@ -6039,7 +6039,7 @@
           "measuredW": "159",
           "properties": {
             "size": "16",
-            "text": "I wouldn't recommend"
+            "text": " (私は)おすすめしない"
           },
           "typeID": "Label",
           "x": "138",
@@ -6068,7 +6068,7 @@
           "measuredW": "319",
           "properties": {
             "size": "16",
-            "text": "Order in roadmap not strict (Learn anytime)"
+            "text": "ロードマップの順番は厳密ではない (いつでも学べる)"
           },
           "typeID": "Label",
           "w": "324",
@@ -6131,7 +6131,7 @@
           "measuredW": "277",
           "properties": {
             "size": "16",
-            "text": "Alternative Option - Pick this or purple"
+            "text": "代替案 - これか紫を選ぶ"
           },
           "typeID": "Label",
           "x": "138",
@@ -6224,7 +6224,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Understand different OS Concepts"
+            "text": "異なるOSのコンセプトを理解する"
           },
           "typeID": "Label",
           "x": "524",
@@ -7251,7 +7251,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Cloud Design Patterns"
+            "text": "クラウドデザインパターン"
           },
           "typeID": "Label",
           "x": "666",
